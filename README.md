@@ -34,15 +34,38 @@ Currently working as a Senior Full Stack Engineer at Baytech Consulting building
 
 Previously contributed to AI education systems at Tutero, enterprise eCommerce at Wilcon Depot, Inc., and multi-industry startup solutions at Lightweight Solutions.
 
-#### 📧 You can contact me on:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-supil-364b9b3b9)
+<h2 align="left">📬 Contact Me</h2>
+
+<p align="left">
+  <a href="mailto:carlosuperdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/carlo-supil-364b9b3b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://t.me/carloscooker" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.viber.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  📧 <strong>Email:</strong> carlosuperdev@gmail.com <br/>
+  💼 <strong>LinkedIn:</strong> linkedin.com/in/carlo-supil-364b9b3b9 <br/>
+  💬 <strong>Telegram:</strong> @carloscooker <br/>
+  📱 <strong>Viber:</strong> +63 965 839 3095
+</p>
 
 ---
 
 ### My Tech Stack:
-
-<h2 align="left">⚡ Tech Stack</h2>
 
 <h3 align="left">Languages</h3>
 <p align="left">
