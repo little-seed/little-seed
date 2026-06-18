@@ -1,138 +1,138 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there, This is Carlo.
+# Hi, This is Super-AI
 
-## Senior Software Engineer | Full Stack Engineer | AI & Cloud Solutions Engineer
+### AI & SaaS Software Consultant
 
-📍 Zamboanga, Philippines
-📧 carlosuperdev@gmail.com
-📱 +63 965 839 3095
-💼 https://www.linkedin.com/in/carlo-supil-364b9b3b9
+I help startups and businesses turn ideas into scalable software products, combining 10+ years of experience in SaaS, AI, cloud platforms, and enterprise applications.
 
-#### 🚀 About Me
-
-Senior Full Stack Software Engineer with 10+ years of experience building scalable SaaS platforms, AI-powered applications, enterprise systems, eCommerce solutions, and real-time web/mobile products for startups, agencies, and enterprise organizations across US and global markets.
-
-Experienced in architecting and delivering modern full-stack applications using:
-
-JavaScript / TypeScript
-React / Next.js
-Node.js
-Python
-Cloud Infrastructure
-AI / LLM Integrations
-
-Strong background across:
-
-AI-native applications
-EdTech platforms
-Healthcare systems
-Enterprise SaaS
-CRM & workflow automation
-eCommerce ecosystems
-Real-time communication systems
-
-Currently working as a Senior Full Stack Engineer at Baytech Consulting building enterprise-grade AI-powered applications and scalable cloud-native platforms.
-
-Previously contributed to AI education systems at Tutero, enterprise eCommerce at Wilcon Depot, Inc., and multi-industry startup solutions at Lightweight Solutions.
+Over the past decade, I've worked with companies across healthcare, education, eCommerce, and enterprise software, helping them build reliable products, improve operational efficiency, and solve complex business challenges through technology.
 
 ---
 
-<h2 align="left">📬 Contact Me</h2>
+## What I Do
 
-<p align="left">
-  <a href="mailto:carlosuperdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### AI Solutions
 
-  <a href="https://www.linkedin.com/in/carlo-supil-364b9b3b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+* LLM integrations (OpenAI, Claude, Gemini)
+* AI-powered SaaS products
+* Workflow automation
+* Knowledge management systems
+* AI-assisted business tools
 
-  <a href="https://t.me/carloscooker" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+### SaaS Development
 
-  <a href="https://www.viber.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white"/>
-  </a>
-</p>
+* MVP planning and development
+* Multi-tenant SaaS platforms
+* Web and mobile applications
+* API integrations
+* Product modernization
 
-<p align="left">
-  📧 <strong>Email:</strong> carlosuperdev@gmail.com <br/>
-  💼 <strong>LinkedIn:</strong> linkedin.com/in/carlo-supil-364b9b3b9 <br/>
-  💬 <strong>Telegram:</strong> @carloscooker <br/>
-  📱 <strong>Viber:</strong> +63 965 839 3095
-</p>
+### Software Consulting
+
+* Technical strategy
+* System architecture
+* Product planning
+* Fractional CTO support
+* Engineering team guidance
 
 ---
 
-### My Tech Stack:
+## Industries I've Worked In
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-</p>
+* Healthcare
+* Education
+* eCommerce
+* Enterprise Software
+* Logistics & Operations
+* CRM & Internal Business Systems
 
-<h3 align="left">Frontend</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
-</p>
+---
 
-<h3 align="left">Backend & APIs</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
-</p>
+## Featured Experience
 
-<h3 align="left">Mobile Development</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"/>
-</p>
+### BayTech Consulting
 
-<h3 align="left">Databases</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-</p>
+Built SaaS platforms and AI-powered business applications for organizations across healthcare, education, legal, and environmental sectors.
 
-<h3 align="left">Cloud & DevOps</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"/>
-</p>
+### Tutero
 
-<h3 align="left">AI & Tools</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</p>
+Developed AI-powered educational systems, lesson generation workflows, and real-time tutoring platforms serving students and educators globally.
+
+### American Allied Health
+
+Helped modernize a healthcare learning platform, improving user experience and supporting measurable business growth.
+
+### SellYourBoards
+
+Designed and developed workflow automation systems, customer portals, and shipping integrations to streamline operations.
+
+---
+
+## Core Technologies
+
+**Frontend**
+
+* React
+* Next.js
+* TypeScript
+* Angular
+* Vue.js
+
+**Backend**
+
+* Node.js
+* Python
+* .NET
+* NestJS
+* Laravel
+
+**Cloud & Infrastructure**
+
+* AWS
+* Docker
+* Kubernetes
+* Terraform
+* CI/CD
+
+**AI & Automation**
+
+* OpenAI
+* Claude
+* Gemini
+* LangChain
+* RAG Systems
+* AI Agents
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+---
+
+## Current Focus
+
+* AI-powered business applications
+* Workflow automation systems
+* SaaS architecture and modernization
+* Healthcare and education technology
+* Product consulting for startups
+
+---
+
+## Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/carlo-supil-364b9b3b9
+
+📧 Email: [carlosuperdev@gmail.com](mailto:carlosuperdev@gmail.com)
+
+🌐 Portfolio: https://super-ai-consulting.netlify.app
+
+📱 Whatsapp: +63 965 839 3095
+
+💬 Telegram: @carloscooker
+
+---
+
+> Great software is not just about technology. It's about solving real business problems in a way that is reliable, scalable, and sustainable.
